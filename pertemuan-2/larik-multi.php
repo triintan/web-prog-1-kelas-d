@@ -17,5 +17,7 @@ $data=array(
     $data["web-prog"]["intan"]."<br>";
     echo"Nilai kalkulus sabda:".
     $data["kalkulus"]["sabda"]."<br>";
+    echo"Nilai Kalkulus ali:".
+    $data["kalkulus"]["ali"]."<br>";
 
-    ?>
+?>
